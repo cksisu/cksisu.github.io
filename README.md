@@ -1,2 +1,5 @@
 # cksisu.github.io
-Personal portfolio
+
+Personal portfolio for tracking personal development and showcasing skills.
+ 
+
