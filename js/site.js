@@ -26,10 +26,6 @@ $(document).ready(function() {
     buildSnippets();
   }
 
-  function navbarLoad() {
-    $("#navbar-placeholder").load("../navbar.html");
-  }
-
   function smoothScroll(e) {
     e.preventDefault();
     $(document).off("scroll");

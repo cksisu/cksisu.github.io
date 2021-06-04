@@ -1,7 +1,9 @@
+/* Homepage showcase
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   max-width: 800px; }
 .header {
-  margin-top: 6rem;
+  margin-top: 5rem;
   text-align: center; }
 .value-prop {
   margin-top: 1rem; }
@@ -21,6 +23,7 @@
   display: block;
   text-align: center;
   margin: 2.5rem auto 0; }
+
 .example-grid .column,
 .example-grid .columns {
   background: #EEE;

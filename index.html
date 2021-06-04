@@ -31,7 +31,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
   <link rel="stylesheet" href="css/github-prettify-theme.css">
-  <script src="js/site.js"></script>
+  <script src="/js/site.js"></script>
+  <script src="/js/navbar.js"></script>
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -54,8 +55,8 @@
           Light as a feather at ~400 lines &amp; built with mobile in mind.
         </div>
         <div class="four columns value-prop">
-          <img class="value-img" src="img/pens.svg">
-          Styles designed to be a starting point, not a UI framework.
+          <img class="value-img" src="img/mystique-logo.svg">
+          Python package for look alike selection to support causal inference.
         </div>
         <div class="four columns value-prop">
           <img class="value-img" src="img/watch.svg">
@@ -65,59 +66,10 @@
     </section>
 
 
-    <!-- Navbar structure
+    <!-- Navbar
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <div class="navbar-spacer"></div>
-    <nav class="navbar">
-      <div class="container">
-        <ul class="navbar-list">
-          <li class="navbar-item">
-            <a class="navbar-link" href="">Home</a>
-          </li>
-          <li class="navbar-item">
-            <a class="navbar-link" href="">Analysis</a>
-          </li>
-          <li class="navbar-item">
-            <a class="navbar-link" href="#" data-popover="#codeNavPopover">Projects</a>
-            <div id="codeNavPopover" class="popover">
-              <ul class="popover-list">
-                <li class="popover-item">
-                  <a class="popover-link" href="#packages">Packages</a>
-                </li>
-                <li class="popover-item">
-                  <a class="popover-link" href="#typography">Frameworks</a>
-                </li>
-                <li class="popover-item">
-                  <a class="popover-link" href="#buttons">Visualization</a>
-                </li>
-              </ul>
-            </div>
-          </li>
-          <li class="navbar-item">
-            <a class="navbar-link" href="">ML Masters</a>
-          </li>
-          <li class="navbar-item">
-            <a class="navbar-link" href="#" data-popover="#moreNavPopover">More</a>
-            <div id="moreNavPopover" class="popover">
-              <ul class="popover-list">
-                <li class="popover-item">
-                  <a class="popover-link" href="https://github.com/cksisu">Contact Me</a>
-                </li>
-                <li class="popover-item">
-                  <a class="popover-link" href="https://cksisu.github.io/more/books.html">Books</a>
-                </li>
-                <li class="popover-item">
-                  <a class="popover-link" href="https://github.com/dhg/Skeleton#license">Papers</a>
-                </li>
-                <li class="popover-item">
-                  <a class="popover-link" href="https://github.com/dhg/Skeleton#extensions">Misc Resources</a>
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <navbar-html></navbar-html>
 
     <!-- PLACEHOLDER -->
     <div class="row" id="highlights">
