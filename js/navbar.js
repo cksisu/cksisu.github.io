@@ -27,26 +27,26 @@ class NavbarHTML extends HTMLElement {
               </div>
             </li>
             <li class="navbar-item">
-              <a class="navbar-link" href="">ML Masters</a>
+              <a class="navbar-link" href="/mlms/curriculum.html">ML Masters</a>
             </li>
             <li class="navbar-item">
               <a class="navbar-link" href="#" data-popover="#moreNavPopover">More</a>
               <div id="moreNavPopover" class="popover">
                 <ul class="popover-list">
                   <li class="popover-item">
+                    <a class="popover-link" href="https://github.com/cksisu">Contact</a>
+                  </li>
+                  <li class="popover-item">
                     <a class="popover-link" href="https://github.com/cksisu">Repos</a>
                   </li>
                   <li class="popover-item">
-                    <a class="popover-link" href="/more/books.html">Books</a>
-                  </li>
-                  <li class="popover-item">
-                    <a class="popover-link" href="https://github.com/dhg/Skeleton#license">Papers</a>
+                    <a class="popover-link" href="/more/books.html">Reading</a>
                   </li>
                   <li class="popover-item">
                     <a class="popover-link" href="https://www.linkedin.com/in/charlesekelley/">LinkedIn</a>
                   </li>
                   <li class="popover-item">
-                    <a class="popover-link" href="https://github.com/dhg/Skeleton#extensions">Misc Index</a>
+                    <a class="popover-link" href="https://github.com/dhg/Skeleton#extensions">Misc</a>
                   </li>
                 </ul>
               </div>

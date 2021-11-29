@@ -1,0 +1,499 @@
+{
+ "metadata": {
+  "collection": "Books Read",
+  "source": "books-read.bib",
+  "created": "2021-06-05T23:35:41.902366",
+  "records": 25
+ },
+ "records": [
+  {
+   "type": "book",
+   "id": "Goos2011-yn",
+   "citekey": "Goos2011-yn",
+   "collection": "my-paper",
+   "title": "Optimal design of experiments: A case study approach",
+   "year": "2011",
+   "author": [
+    {
+     "name": "Goos, Peter"
+    },
+    {
+     "name": "Jones, Bradley"
+    }
+   ],
+   "publisher": {
+    "name": "Wiley-Blackwell",
+    "address": "Hoboken, NJ"
+   },
+   "start": "2017-06",
+   "finish": "2017-08"
+  },
+  {
+   "type": "book",
+   "id": "Ameisen2020-og",
+   "citekey": "Ameisen2020-og",
+   "collection": "my-paper",
+   "title": "Building machine learning powered applications: Going from idea to product",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Ameisen, Emmanuel"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2021-03",
+   "finish": "2021-05"
+  },
+  {
+   "type": "book",
+   "id": "Lakshmanan2020-kh",
+   "citekey": "Lakshmanan2020-kh",
+   "collection": "my-paper",
+   "title": "Machine learning design patterns: Solutions to common challenges in data preparation, model building, and MLOps",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Lakshmanan, Valliappa"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2021-02",
+   "finish": "2021-04"
+  },
+  {
+   "type": "book",
+   "id": "Thomas2019-zp",
+   "citekey": "Thomas2019-zp",
+   "collection": "my-paper",
+   "title": "The Pragmatic Programmer: Your journey to mastery, 20th Anniversary Edition",
+   "year": "2019",
+   "edition": "2",
+   "author": [
+    {
+     "name": "Thomas, David"
+    },
+    {
+     "name": "Hunt, Andrew"
+    }
+   ],
+   "publisher": {
+    "name": "Addison Wesley",
+    "address": "Boston, MA"
+   },
+   "start": "2019-08",
+   "finish": "2019-10"
+  },
+  {
+   "type": "book",
+   "id": "Ward2014-vj",
+   "citekey": "Ward2014-vj",
+   "collection": "my-paper",
+   "title": "How Linux Works, 2nd Edition: What every superuser should know",
+   "year": "2014",
+   "author": [
+    {
+     "name": "Ward, Brian"
+    }
+   ],
+   "publisher": {
+    "name": "No Starch Press",
+    "address": "San Francisco, CA"
+   },
+   "start": "2017-01",
+   "finish": "2017-04"
+  },
+  {
+   "type": "book",
+   "id": "Danjou2018-ko",
+   "citekey": "Danjou2018-ko",
+   "collection": "my-paper",
+   "title": "Serious python: Black-belt advice on deployment, scalability, testing, and more",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Danjou, Julien"
+    }
+   ],
+   "publisher": {
+    "name": "No Starch Press",
+    "address": "San Francisco, CA"
+   },
+   "start": "2019-05",
+   "finish": "2019-07"
+  },
+  {
+   "type": "book",
+   "id": "Petzold2000-vu",
+   "citekey": "Petzold2000-vu",
+   "collection": "my-paper",
+   "title": "Code: The hidden language of computer hardware and software",
+   "year": "2000",
+   "author": [
+    {
+     "name": "Petzold, Charles"
+    }
+   ],
+   "publisher": {
+    "name": "Microsoft Press",
+    "address": "Redmond, WA"
+   },
+   "start": "2017-05",
+   "finish": "2017-06"
+  },
+  {
+   "type": "book",
+   "id": "Chambers2018-ol",
+   "citekey": "Chambers2018-ol",
+   "collection": "my-paper",
+   "title": "Spark - the definitive guide",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Chambers, Bill"
+    },
+    {
+     "name": "Zaharia, Matei"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2019-06",
+   "finish": "2019-10"
+  },
+  {
+   "type": "book",
+   "id": "Okken2017-ew",
+   "citekey": "Okken2017-ew",
+   "collection": "my-paper",
+   "title": "Python Testing with pytest",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Okken, Brian"
+    }
+   ],
+   "publisher": {
+    "name": "Pragmatic Bookshelf",
+    "address": "Raleigh, NC"
+   },
+   "start": "2020-07",
+   "finish": "2020-08"
+  },
+  {
+   "type": "book",
+   "id": "Malaska2018-kj",
+   "citekey": "Malaska2018-kj",
+   "collection": "my-paper",
+   "title": "Foundations for architecting data solutions: Managing successful data projects",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Malaska, Ted"
+    },
+    {
+     "name": "Seidman, Jonathan"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+    "start": "2020-10",
+    "finish": "2020-10"
+  },
+  {
+   "type": "book",
+   "id": "Martin2008-if",
+   "citekey": "Martin2008-if",
+   "collection": "my-paper",
+   "title": "Clean code: A handbook of agile software craftsmanship",
+   "year": "2008",
+   "author": [
+    {
+     "name": "Martin, Robert C"
+    }
+   ],
+   "publisher": {
+    "name": "Prentice Hall",
+    "address": "Philadelphia, PA"
+   },
+   "start": "2017-04",
+   "finish": "2017-08"
+  },
+  {
+   "type": "book",
+   "id": "Abelson1996-wx",
+   "citekey": "Abelson1996-wx",
+   "collection": "my-paper",
+   "title": "Structure and interpretation of computer programs",
+   "year": "1996",
+   "edition": "2",
+   "author": [
+    {
+     "name": "Abelson, Harold"
+    },
+    {
+     "name": "Sussman, Gerald Jay"
+    }
+   ],
+   "publisher": {
+    "name": "MIT Press",
+    "address": "London, England"
+   },
+   "start": "2018-05",
+   "finish": "2018-08"
+  },
+  {
+   "type": "book",
+   "id": "Matloff2011-ib",
+   "citekey": "Matloff2011-ib",
+   "collection": "my-paper",
+   "title": "The art of R programming: A tour of statistical software design",
+   "year": "2011",
+   "author": [
+    {
+     "name": "Matloff, Norman"
+    }
+   ],
+   "publisher": {
+    "name": "No Starch Press",
+    "address": "San Francisco, CA"
+   },
+   "start": "2015-05",
+   "finish": "2015-07"
+  },
+  {
+   "type": "book",
+   "id": "Gamma1994-ey",
+   "citekey": "Gamma1994-ey",
+   "collection": "my-paper",
+   "title": "Design patterns: Elements of reusable object-oriented software",
+   "year": "1994",
+   "author": [
+    {
+     "name": "Gamma, Erich"
+    },
+    {
+     "name": "Helm, Richard"
+    },
+    {
+     "name": "Johnson, Ralph"
+    },
+    {
+     "name": "Vlissides, John"
+    }
+   ],
+   "publisher": {
+    "name": "Addison Wesley",
+    "address": "Boston, MA"
+   },
+   "start": "2019-07",
+   "finish": "2019-09"
+  },
+  {
+   "type": "book",
+   "id": "Ceder2018-li",
+   "citekey": "Ceder2018-li",
+   "collection": "my-paper",
+   "title": "The quick python book, 3E",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Ceder, Naomi R"
+    }
+   ],
+   "publisher": {
+    "name": "Manning Publications",
+    "address": "New York, NY"
+   },
+   "start": "2018-07",
+   "finish": "2018-09"
+  },
+  {
+   "type": "book",
+   "id": "Wickham2017-bt",
+   "citekey": "Wickham2017-bt",
+   "collection": "my-paper",
+   "title": "Advanced R",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Wickham, Hadley"
+    }
+   ],
+   "publisher": {
+    "name": "CRC Press",
+    "address": "London, England"
+   },
+   "start": "2017-03",
+   "finish": "2017-06"
+  },
+  {
+   "type": "book",
+   "id": "Petrov2019-uo",
+   "citekey": "Petrov2019-uo",
+   "collection": "my-paper",
+   "title": "Database internals: A deep-dive into how distributed data systems work",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Petrov, Alex"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2019-05",
+   "finish": "2019-08"
+  },
+  {
+   "type": "book",
+   "id": "White2015-pf",
+   "citekey": "White2015-pf",
+   "collection": "my-paper",
+   "title": "Hadoop - The Definitive Guide 4e",
+   "year": "2015",
+   "author": [
+    {
+     "name": "White, Tom"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2019-01",
+   "finish": "2019-04"
+  },
+  {
+   "type": "book",
+   "id": "Kleppmann2017-li",
+   "citekey": "Kleppmann2017-li",
+   "collection": "my-paper",
+   "title": "Designing data-intensive applications: The big ideas behind reliable, scalable, and maintainable systems",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Kleppmann, Martin"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2019-07",
+   "finish": "2019-10"
+  },
+  {
+   "type": "book",
+   "id": "Robbins2005-er",
+   "citekey": "Robbins2005-er",
+   "collection": "my-paper",
+   "title": "Classic Shell Scripting: Hidden commands that unlock the power of Unix",
+   "year": "2005",
+   "author": [
+    {
+     "name": "Robbins, Arnold"
+    },
+    {
+     "name": "Beebe, Nelson H F"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2020-01",
+   "finish": "2020-03"
+  },
+  {
+   "type": "book",
+   "id": "Celko2014-xx",
+   "citekey": "Celko2014-xx",
+   "collection": "my-paper",
+   "title": "Joe Celko's SQL for Smarties: Advanced SQL Programming",
+   "year": "2014",
+   "edition": "5",
+   "author": [
+    {
+     "name": "Celko, Joe"
+    }
+   ],
+   "publisher": {
+    "name": "Morgan Kaufmann",
+    "address": "Oxford, England"
+   },
+   "start": "2014-08",
+   "finish": "2014-11"
+  },
+  {
+   "type": "book",
+   "id": "Wicherski2017-og",
+   "citekey": "Wicherski2017-og",
+   "collection": "my-paper",
+   "title": "Beginning Salesforce Developer",
+   "year": "2017",
+   "edition": "1",
+   "author": [
+    {
+     "name": "Wicherski, Michael"
+    }
+   ],
+   "publisher": {
+    "name": "APress",
+    "address": "Berlin, Germany"
+   },
+   "start": "2019-06",
+   "finish": "2019-06"
+  },
+  {
+   "type": "book",
+   "id": "Robbins2011-hf",
+   "citekey": "Robbins2011-hf",
+   "collection": "my-paper",
+   "title": "Vi and vim editors pocket reference: Support for every text editing task",
+   "year": "2011",
+   "edition": "2",
+   "author": [
+    {
+     "name": "Robbins, Arnold"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2018-03",
+   "finish": "2018-05"
+  },
+  {
+   "type": "book",
+   "id": "Geron2019-fm",
+   "citekey": "Geron2019-fm",
+   "collection": "my-paper",
+   "title": "Hands-on machine learning with scikit-learn, keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems",
+   "year": "2019",
+   "edition": "2",
+   "author": [
+    {
+     "name": "Geron, Aurelien"
+    }
+   ],
+   "publisher": {
+    "name": "O'Reilly Media",
+    "address": "Sebastopol, CA"
+   },
+   "start": "2021-05",
+   "finish": "TBD"
+  }
+ ]
+}
